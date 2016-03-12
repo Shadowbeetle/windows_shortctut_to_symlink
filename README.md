@@ -13,12 +13,12 @@ sc2sl is a simple python3 script that will recursively crawl through a folder an
 
 `python3 sc2sl.py <root> <old> <new> [-c <encoding>] [--remove]`
 
-`**root**`: the directory you wish to crawl
+**`root`**: the directory you wish to crawl
 
-`**old**`: the old directory pattern you wish to switch. Does not have to begin with the drive letter
+**`old`**: the old directory pattern you wish to switch. Does not have to begin with the drive letter
 
-`**new**`: the new directory pattern you wish to use. Has to start with `/`
+**`new`**: the new directory pattern you wish to use. Has to start with `/`
 
-`**-c**`,`**--encoding**`: the encoding your previous operating system used. Defaults to ISO-8859-1. In Eastern-Europe it's usually ISO-8859-2. [Check here for further info](https://en.wikipedia.org/wiki/ISO/IEC_8859-1).
+**`-c`**,**`--encoding`**: the encoding your previous operating system used. Defaults to ISO-8859-1. In Eastern-Europe it's usually ISO-8859-2. [Check here for further info](https://en.wikipedia.org/wiki/ISO/IEC_8859-1).
 
-`**--remove**`: add this switch is you wish to remove the old shortcuts in one run.
+**`--remove`**: add this switch is you wish to remove the old shortcuts in one run.
