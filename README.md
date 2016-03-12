@@ -7,7 +7,7 @@ One thing to do is to crawl through your previous directories and turn all your 
 
 sc2sl is a simple python3 script that will recursively crawl through a folder and turn every windows shortcut / windows link - or whatever their proper name is - to symlinks. 
 
-# usage
+# Usage
 
 **make sure you have python 3 installed**
 
